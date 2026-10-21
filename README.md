@@ -22,8 +22,6 @@ report by quarter, month, product category, and country.
 -   **Total Orders:** 2,707
 -   **Total Quantity:** 6,698
 
-*Values are displayed as shown on the dashboard and may be rounded.*
-
 ## Dashboard Features
 
 -   **KPI cards:** Revenue, gross profit, gross margin, total orders,
@@ -42,7 +40,7 @@ report by quarter, month, product category, and country.
 
 -   Microsoft Power BI
 -   Power Query 
--   DAX measures (include only if used in your workflow)
+-   DAX measures 
 -   Data visualization and interactive filtering
 
 ## Dataset
